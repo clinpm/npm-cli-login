@@ -1,6 +1,6 @@
 {
   "name": "@clinpm/npm-cli-login",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -17,7 +17,7 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/cnpm/npm-cli-login#readme",
   "dependencies": {
-    "@clinpm/npm-registry-client": "8.6.0"
+    "@clinpm/npm-registry-client": "1.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
