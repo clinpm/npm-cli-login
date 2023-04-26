@@ -1,5 +1,5 @@
 {
-  "name": "@cnpmjs/npm-cli-login",
+  "name": "@clinpm/npm-cli-login",
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
